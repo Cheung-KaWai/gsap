@@ -139,7 +139,7 @@ export const codeSnippets = {
       current[i] = e;
     };
   
-    useEffect(() => {
+    ueseLayoutEffect(() => {
       // 1) returns a state object containing data about the elements' current position/size/rotation in the viewport
       const state = Flip.getState(elements.current);
   
