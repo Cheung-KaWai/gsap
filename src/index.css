@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  overscroll-behavior: none;
+}
+
+li {
+  list-style: none;
+  cursor: pointer;
+}
+
+code {
+  font-size: 1.4rem !important;
+}
